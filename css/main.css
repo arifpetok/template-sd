@@ -1,0 +1,44 @@
+.nav-link {
+  text-transform: uppercase;
+}
+
+.info__title {
+  font-size: 16px;
+  margin-bottom: 0px;
+  font-weight: 600;
+}
+
+.hero {
+  padding: 60px 0;
+  background-color: #ffd233;
+}
+
+.hero .hero__title {
+  font-size: 24px;
+}
+
+.title {
+  font-size: 26px;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+}
+
+footer {
+  background-color: #f5f5f5;
+  color: #626262;
+}
+
+footer h1 {
+  font-size: 20px;
+  margin-bottom: 15px;
+  color: #3b3b3b;
+}
+
+.pendaftaran h1 {
+  font-size: 27px;
+}
+
+.pendaftaran h3 {
+  font-size: 20px;
+}
+/*# sourceMappingURL=main.css.map */
